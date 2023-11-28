@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichalTurcan
-- 👀 I’m interested in webdesing, webdev
+- 👀 I’m interested in webdesign, webdev
 - 🌱 I’m currently learning js, php
 - 📫 How to reach me mazeqube22@gmail.com
 
